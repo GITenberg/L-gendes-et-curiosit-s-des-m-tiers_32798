@@ -1,0 +1,32 @@
+_repo: L-gendes-et-curiosit-s-des-m-tiers_32798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sébillot, Paul
+    alias: Sebillot, Paul
+    birthdate: 1843
+    deathdate: 1918
+    gutenberg_agent_id: '32237'
+    url: http://www.gutenberg.org/2009/agents/32237
+description: ''
+gutenberg_bookshelf: FR Métiers et Artisanat
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32798'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industries -- France -- Folklore'
+- !lcsh 'Occupations -- France -- Folklore'
+- !lcc 'GR'
+- !lcsh 'Folklore -- France'
+- !lcsh 'Working class -- France -- Folklore'
+- !lcsh 'France -- Social life and customs'
+title: Légendes et curiosités des métiers
+url: http://www.gutenberg.org/ebooks/32798
