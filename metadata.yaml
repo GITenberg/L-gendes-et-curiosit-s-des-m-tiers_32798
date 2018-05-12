@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '32237'
     url: http://www.gutenberg.org/2009/agents/32237
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32798#L-gendes-et-curiosit-s-des-m-tiers
 gutenberg_bookshelf: FR Métiers et Artisanat
 gutenberg_issued: '2010-06-13'
 gutenberg_type: Text
